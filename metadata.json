@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 改配APP助手-兰v2.0",
+  "description": "A professional mobile app for managing server reconfiguration workflows, including accessory pickup, SN scanning, and step-by-step reconfiguration tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
